@@ -28,3 +28,5 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
+
+I have attached the link to the dataset as the file is too big. I have not uploaded the 'Final_Analytics.csv' file as it exceeds the limit. 
